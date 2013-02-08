@@ -1,5 +1,5 @@
 {
-	"name": "voronenko/migrate-command",
+	"name": "yiiext/migrate-command",
 	"description": "Look for original author repo at https://github.com/yiiext/migrate-command.  This is just a custom build for composer...",
         "version":"1.0.0",
 	"type": "library",
