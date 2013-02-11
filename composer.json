@@ -1,7 +1,7 @@
 {
 	"name": "yiiext/migrate-command",
 	"description": "Look for original author repo at https://github.com/yiiext/migrate-command.  This is just a custom build for composer...",
-        "version":"1.0.0",
+        "version":"1.0.0-dev",
 	"type": "library",
 	"require": {
 		"php": ">=5.1.0"
@@ -9,7 +9,7 @@
         "minimum-stability": "dev",
         "extra": {
           "branch-alias": {
-              "dev-master": "1.0.0"
+              "dev-master": "1.0.0-dev"
          }
     }
 }
